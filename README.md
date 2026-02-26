@@ -1,4 +1,4 @@
-README – How to Open This App on macOS
+How to Open This App on macOS
 
 Please follow these steps carefully to run the app on your Mac.
 
