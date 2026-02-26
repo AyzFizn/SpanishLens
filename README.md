@@ -1,41 +1,46 @@
-How to Open This App on macOS
+# macOS App Setup Guide
 
-Please follow these steps carefully to run the app on your Mac.
+Follow the steps below to download and run this app on macOS.
 
-Step 1: Download the File
+---
 
-Download the file to your computer. It will usually go to your Downloads folder.
+## Step 1: Download the File
+Download the file from this repository.  
+It will usually be saved in your **Downloads** folder.
 
-Step 2: Uncompress (Unzip) the File
+---
 
-Double-click the downloaded file.
+## Step 2: Uncompress (Unzip) the File
+- Double-click the downloaded file.
+- macOS will automatically uncompress it into a folder or app.
 
-macOS will automatically uncompress it into a folder or app.
+---
 
-Step 3: Run the App Once
+## Step 3: Run the App Once
+- Double-click the app to open it.
+- macOS will likely block the app and show an error saying it can’t be opened.
 
-Double-click the app to open it.
+This is expected behavior and happens because the app is not signed by Apple.
 
-This is important: macOS will most likely block it and show an error saying the app can’t be opened.
+---
 
-This is normal.
+## Step 4: Allow the App in Security Settings
+1. Open **System Settings** (or **System Preferences** on older macOS versions).
+2. Go to **Privacy & Security**.
+3. Scroll down until you see a message saying the app was blocked.
+4. Click **Allow Anyway**.
+5. Close Settings.
 
-Step 4: Allow the App in Security Settings
+---
 
-Open System Settings (or System Preferences on older macOS versions).
-
-Go to Privacy & Security.
-
-Scroll down until you see a message saying the app was blocked.
-
-Click Allow Anyway.
-
-Close Settings.
-
-Step 5: Run the App Again
-
-Go back and open the app one more time.
-
-Click Open if macOS asks for confirmation.
+## Step 5: Run the App Again
+- Open the app one more time.
+- If prompted, click **Open** to confirm.
 
 The app should now run normally.
+
+---
+
+## Notes
+- This process only needs to be done once.
+- After being allowed, the app will open normally in the future.
