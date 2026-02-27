@@ -44,3 +44,4 @@ The app should now run normally.
 ## Notes
 - This process only needs to be done once.
 - After being allowed, the app will open normally in the future.
+- To use the allow pasting button, press it then go to the website and right click. Then, press inspect and go to the console tab. Press Command + V and then press enter. Now you should be able to paste! (This is only if the website did not allow pasting in the first place.)
